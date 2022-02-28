@@ -1,0 +1,130 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr {
+  margin: 100px auto 100px auto;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #97a97c;
+  border-width: 5px;
+  height: 0px;
+  width: 5%;
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #718355;
+  line-height: 2;
+}
+
+h2 {
+  margin: 20px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #87986a;
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #656d4a;
+  margin-bottom: 0;
+}
+
+
+a {
+  color: #656d4a;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.code-skill-discription {
+  margin: 5px;
+}
+
+.topdiv {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  background-color: #f4ece2;
+  position: relative;
+}
+
+.middiv {
+  padding-top: 30px;
+  line-height: 2;
+  background-color: #ffffff;
+}
+
+.profile {
+  margin-bottom: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 30px auto 180px 450px;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottomdiv {
+  padding-top: 5px;
+  padding-bottom: 10px;
+  background-color: #f4ece2;
+}
+
+.contact-me {
+  padding-top: 30px;
+  background-color: #f4ece2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 200px;
+}
+
+.mountain {
+  margin-top: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 250px;
+}
+
+.code-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.web-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.ml-img {
+  float: left;
+  width: 25%;
+  margin-right: 30px;
+}
+
+.btn {
+  padding: 60px;
+}
+
+.footer-link {
+  margin: 30px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  margin: 50px auto;
+}
